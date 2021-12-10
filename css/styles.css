@@ -1,0 +1,55 @@
+#banner {
+    width:50px;
+		margin:auto;
+		border: green 2px dashed;
+		text-align:center;
+		background-color:purple;
+		}
+	#nav {
+		white-space: nowrap;
+		text-align: center;
+		}
+  #banner{
+    width: 50px;
+    margin:auto;
+    border: red 2px dashed;
+		text-align:center;
+		background-color:yellow;
+  }
+  #wrapper{
+    display:flex;
+    width:100%;
+  }
+  #main{
+    width:100%;
+    margin-left:auto;
+    margin:auto;
+  }
+  #aside{
+    width:100%;  
+  }
+  #footer{
+    width:50px;
+    margin-left:auto;
+    margin-right:auto;
+    font-family:Arial;
+    color:black;
+    font-size: 14px;
+    Text-transform:uppercase;
+    border:50px;
+    padding-top:50px;
+  }
+  body{
+    background-color:grey;
+    margin:0;
+    font-family: Arial;
+    font-size:14px;
+  }
+  .imgLeft{
+float:left;
+		margin-right:15;
+		}
+	.imgRight{
+		float:right;
+		margin-left:15;
+		}
